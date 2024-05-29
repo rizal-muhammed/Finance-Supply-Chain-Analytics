@@ -1,6 +1,6 @@
 -- Supply chain analytics
 
--- Write a procued to get forecast accuracy
+-- Write a procedure to get forecast accuracy
 -- input is fiscal year
 CREATE DEFINER=`root`@`localhost` PROCEDURE `get_forecast_accuracy`(
 	in_fiscal_year int
