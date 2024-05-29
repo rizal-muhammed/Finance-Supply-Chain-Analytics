@@ -35,7 +35,7 @@ BEGIN
 	order by forecast_accuracy asc;
 	END
 
--- Write a procedure to get market budget provided market, fiscal_year as input
+-- Write a procedure to get market badge provided market, fiscal_year as input
 -- if Quantity > 5M, the corresponding market badge = "Gold", otherwise "Silver"
 CREATE DEFINER=`root`@`localhost` PROCEDURE `get_market_badge`(
 	IN in_market varchar(45),
