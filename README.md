@@ -17,6 +17,8 @@ Top 10 Customers for Market "India" based on net sales : [Sample Report](https:/
 Write a stored procedure to get top n markets based on net sales <br />
 Top 10 markets by net sales in FY2021 : [Sample Report](https://github.com/rizal-muhammed/Finance-Supply-Chain-Analytics/blob/main/Sample%20Reports/top_10_markets_by_net_sales.csv) <br />
 
+Please refer [here](https://github.com/rizal-muhammed/Finance-Supply-Chain-Analytics/blob/main/finance_analytics.sql) for SQL queries
+
 ---
 
 ### Supply Chain Analytics
@@ -25,3 +27,5 @@ Forecast accuracy for fiscal_year 2021 : [Sample Report](https://github.com/riza
 
 Procedure to get market badge based on market, input is fiscal_year. If Quantity > 5M, Corresponding market badge = "Gold", Otherwise "Silver" <br />
 Market badge for market "India" in fiscal_year 2021 : [Sample Report](https://github.com/rizal-muhammed/Finance-Supply-Chain-Analytics/blob/main/Sample%20Reports/market_badge_INDIA_fy2021.csv) <br />
+
+Please refer [here](https://github.com/rizal-muhammed/Finance-Supply-Chain-Analytics/blob/main/supply_chain_analytics.sql) for SQL queries
