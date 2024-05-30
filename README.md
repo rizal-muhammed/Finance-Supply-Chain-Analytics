@@ -25,7 +25,7 @@ Please refer [here](https://github.com/rizal-muhammed/Finance-Supply-Chain-Analy
 Procedure to get forecast accuracy (input is fiscal_year) <br />
 Forecast accuracy for fiscal_year 2021 : [Sample Report](https://github.com/rizal-muhammed/Finance-Supply-Chain-Analytics/blob/main/Sample%20Reports/forecast_accuracy_fy2021.csv) <br />
 
-Procedure to get market badge based on market, input is fiscal_year. If Quantity > 5M, Corresponding market badge = "Gold", Otherwise "Silver" <br />
+Procedure to get market badge based on market, input is fiscal_year. (Criteria : If Quantity > 5M, Corresponding market badge = "Gold", Otherwise "Silver") <br />
 Market badge for market "India" in fiscal_year 2021 : [Sample Report](https://github.com/rizal-muhammed/Finance-Supply-Chain-Analytics/blob/main/Sample%20Reports/market_badge_INDIA_fy2021.csv) <br />
 
 Please refer [here](https://github.com/rizal-muhammed/Finance-Supply-Chain-Analytics/blob/main/supply_chain_analytics.sql) for SQL queries
